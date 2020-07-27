@@ -1,0 +1,14 @@
+10.582.063-6
+
+--MES
+//*[@id="frmEmissao:acInfoDocumento:cbMes_panel"]/ul/li[2]
+//*[@id="frmEmissao:acInfoDocumento:cbMes_panel"]/ul/li[13]
+
+
+--ANO
+//*[@id="frmEmissao:acInfoDocumento:txtAno_panel"]/ul/li[1]
+//*[@id="frmEmissao:acInfoDocumento:txtAno_panel"]/ul/li[2]
+//*[@id="frmEmissao:acInfoDocumento:txtAno_panel"]/ul/li[10]
+
+
+
